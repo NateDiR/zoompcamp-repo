@@ -2,3 +2,5 @@ data-engineering-zoomcamp.code-workspace
 week1/data/*
 week1/data_pgadmin/*
 week1/scratch.ipynb
+week1/terraform/.terraform/*
+week1/terraform/terraform.tfstate.backup
