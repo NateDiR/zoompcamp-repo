@@ -29,6 +29,7 @@ def main(params):
         name=table, con=engine, if_exists="append", index=False, chunksize=5000
     )
     print("Data inserted successfully")
+    os.system("rm output.parquet")
 
 
 if __name__ == "__main__":
