@@ -3,3 +3,4 @@ week1/terraform/.terraform/*
 week1/terraform/terraform.tfstate.backup
 de_zoomcamp.code-workspace
 week1/ny_taxi_postgres_data/*
+week1/raw_data/*
